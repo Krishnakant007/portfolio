@@ -1,3 +1,5 @@
+//components/main/Encryption.tsx
+
 "use client";
 import React from "react";
 

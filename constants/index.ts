@@ -1,3 +1,5 @@
+//constants/index.ts
+
 export const Skill_data = [
     {
       skill_name: "Html 5",
@@ -85,22 +87,22 @@ export const Skill_data = [
     {
       name: "Facebook",
       src: "/facebook.svg",
-      link: "https://www.facebook.com/profile.php?id=61573813345505", // Add the link
+      link: "https://www.facebook.com/krishnakant.chavan.58/", // Add the link
     },
     {
       name: "Instagram",
       src: "/instagram.svg",
-      link: "https://www.instagram.com/krishnachavan0000007/", // Add the link
+      link: "https://www.instagram.com/krishnakant5409/", // Add the link
     },
     
     {
       name: "LinkedIn",
       src: "/linkding.png",
-      link: "https://www.linkedin.com/in/krishna-chavan-974abb353/", // Add the link
+      link: "https://www.linkedin.com/in/krishna-chavan-7167431b7/", // Add the link
     },
   ];
   
-  
+  //www.linkedin.com/in/krishna-chavan-7167431b7
   
   export const Frontend_skill = [
     {

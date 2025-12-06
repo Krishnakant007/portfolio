@@ -1,3 +1,4 @@
+//components/main/Hero.tsx
 import React from "react";
 import HeroContent from "../sub/HeroContent";
 

@@ -1,3 +1,4 @@
+//components/main/StarBackground.tsx
 "use client";
 
 import React, { useState, useRef, Suspense } from "react";

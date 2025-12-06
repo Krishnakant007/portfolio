@@ -1,3 +1,4 @@
+//componets/main/skills.tsx
 import {
   Backend_skill,
   Frontend_skill,
